@@ -1,0 +1,35 @@
+body {
+    font-style: normal;
+    font-family: 'Tahoma', sans-serif;
+    color:white;
+    width: 600px;
+    height: 0px;
+    background: #2F4F4F
+  }
+  
+  
+  fieldset {
+    background: black;
+  }
+  
+  h1, h2, h3 {
+    text-align: center;
+  }
+  
+  input,textarea, select {
+    background-color:#203737;
+  }
+  
+  ::placeholder {
+    color:white;
+    opacity: 1;
+  }
+  
+  #dropdown {
+    color:white;
+  }
+  
+  #submit {
+    color:white;
+  }
+  
